@@ -8,6 +8,20 @@ Welcome to the cabin.
 
 A structured, real-world oriented knowledge base for engineers who want to think beyond code and design scalable, resilient, and maintainable systems.
 
+## Portfolio Positioning
+
+This repository is maintained as a public architecture knowledge base. Its role
+in my portfolio is to show how I reason about trade-offs, system design,
+maintainability, scalability, and technical decision-making.
+
+It supports my implementation projects by documenting the engineering concepts
+behind design choices such as modular boundaries, API design, persistence,
+integration, observability, and operational readiness.
+
+**Repository type:** architecture knowledge base  
+**Primary focus:** system design, software architecture, technical decisions  
+**Portfolio role:** senior-level reasoning and documentation support
+
 This repository is not about frameworks.  
 It is about decisions.
 
